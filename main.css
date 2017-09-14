@@ -1,0 +1,38 @@
+body {
+      background-color: #fff9ce;
+}
+
+h1 {
+    color: #ffa32b;
+    font-size: 60px;
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+
+h2 {
+    color: #5297d3;
+    font-size: 35px;
+    font-family: 'Days One', sans-serif;
+}
+
+p {
+   color: #a959f9;
+   font-size: 18px;
+   font-family: 'Cuprum', sans-serif;
+}
+
+img {
+   max-width: 100%;
+}
+
+a:link {
+   color: #0abfdb;
+}
+
+a:visited {
+   color: #ff9c3a;
+}
+
+a:hover {
+   color: #ff474d;
+}
+
